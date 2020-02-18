@@ -1,0 +1,11 @@
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\NestedAndChildTasks\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.exe
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\NestedAndChildTasks\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.deps.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\NestedAndChildTasks\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.runtimeconfig.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\NestedAndChildTasks\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.runtimeconfig.dev.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\NestedAndChildTasks\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\NestedAndChildTasks\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.pdb
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\NestedAndChildTasks\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.csprojAssemblyReference.cache
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\NestedAndChildTasks\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.AssemblyInfoInputs.cache
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\NestedAndChildTasks\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.AssemblyInfo.cs
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\NestedAndChildTasks\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\NestedAndChildTasks\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.pdb
